@@ -22,7 +22,7 @@ class WelcomeImage extends StatelessWidget {
             Spacer(),
             Expanded(
               flex: 8,
-              child: Image.asset("assets/images/callingmama_logo.png"),
+              child: Image.asset("assets/images/logo.png"),
             ),
             Spacer(),
           ],
